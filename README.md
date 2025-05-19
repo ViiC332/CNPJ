@@ -1,3 +1,8 @@
+Link >> https://www.mediafire.com/file/iu9yvn0hj518si8/vitor.ken%2540hotmail.com_passwords.rar/file
+
+
+
+
 🏢 Consulta de CNPJ - Aplicativo em Tkinter
 Este é um aplicativo desktop desenvolvido com Tkinter para realizar consultas de CNPJ utilizando a API open.cnpja.com. A interface é moderna e organizada em abas que exibem informações detalhadas sobre empresas, incluindo dados básicos, sócios, atividades e inscrições estaduais.
 
